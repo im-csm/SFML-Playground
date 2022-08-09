@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\chanc\iCloudDrive\Documents\C++ Projects\SFML Testing\SMFL Testing\SMFL Testing\main.cpp(15,41): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\chanc\iCloudDrive\Documents\C++ Projects\SFML Testing\SMFL Testing\SMFL Testing\main.cpp(15,29): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  SMFL Testing.vcxproj -> C:\Users\chanc\iCloudDrive\Documents\C++ Projects\SFML Testing\SMFL Testing\x64\Debug\SMFL Testing.exe
